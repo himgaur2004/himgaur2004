@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @himgaur2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Gaurav Kumar
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript,React Js ,Node Js Typescript,Vue Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- dd
+- 📫 How to reach me himgaursingh@gmail.com
+- 😄 Pronouns: He
+
 
 <!---
 himgaur2004/himgaur2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
