@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gaurav Kumar
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, Javascript,React Js ,Node Js Typescript,Vue Js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me himgaursingh@gmail.com
 - 😄 Pronouns: He
 
